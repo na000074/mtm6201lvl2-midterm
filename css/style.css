@@ -252,7 +252,7 @@ background-color: #e9efd9;
 }
 
 .testi-sub {
-  color: #555;
+  color: #866464;
   margin-bottom: 40px;
 }
 
@@ -266,11 +266,11 @@ background-color: #e9efd9;
 
 .testi-card {
   background-color: #FAFDF2;
-  border: 1px solid #d7e8c3;
+  border: 1px solid #96b376;
   border-radius: 10px;
   padding: 25px;
   text-align: left;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 0 5px rgba(143, 25, 25, 0.05);
   transition: transform 0.3s ease;
 }
 
@@ -280,8 +280,9 @@ background-color: #e9efd9;
 
 .quote {
   font-size: 2rem;
-  color: #c8f77c;
+  color: #5f8622;
   margin-bottom: 10px;
+  background-color: #a0e47e;
 }
 
 .testi-text {
@@ -372,6 +373,7 @@ background-color: #e9efd9;
   color: #888;
   font-size: 0.9rem;
   margin-bottom: 15px;
+  background-color: #a8d776;
 }
 
 .price-card p {
